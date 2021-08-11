@@ -1,0 +1,1 @@
+cmd_/home/pi/device-drivers/assignment/day3/modprobe/e_symbol.mod := { echo  /home/pi/device-drivers/assignment/day3/modprobe/e_symbol.o;  echo; } > /home/pi/device-drivers/assignment/day3/modprobe/e_symbol.mod

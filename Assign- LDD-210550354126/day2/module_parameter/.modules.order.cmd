@@ -1,0 +1,1 @@
+cmd_/home/pi/device-drivers/assignment/day2/module_parameter/modules.order := {   echo /home/pi/device-drivers/assignment/day2/module_parameter/parameter.ko; :; } | awk '!x[$$0]++' - > /home/pi/device-drivers/assignment/day2/module_parameter/modules.order

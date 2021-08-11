@@ -1,0 +1,1 @@
+cmd_/home/pi/device-drivers/assignment/day3/modprobe/average.ko := ld -r  -EL  --build-id=sha1  -T scripts/module.lds -o /home/pi/device-drivers/assignment/day3/modprobe/average.ko /home/pi/device-drivers/assignment/day3/modprobe/average.o /home/pi/device-drivers/assignment/day3/modprobe/average.mod.o;  true

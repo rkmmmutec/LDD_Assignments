@@ -1,0 +1,1 @@
+cmd_/home/pi/device-drivers/assignment/export_symbol/Module.symvers := sed 's/ko$$/o/' /home/pi/device-drivers/assignment/export_symbol/modules.order | scripts/mod/modpost -m -a   -o /home/pi/device-drivers/assignment/export_symbol/Module.symvers -e -i Module.symvers   -T -

@@ -1,0 +1,1 @@
+cmd_/home/pi/device-drivers/assignment/day3/modprobe/modules.order := {   echo /home/pi/device-drivers/assignment/day3/modprobe/e_symbol.ko;   echo /home/pi/device-drivers/assignment/day3/modprobe/average.ko; :; } | awk '!x[$$0]++' - > /home/pi/device-drivers/assignment/day3/modprobe/modules.order

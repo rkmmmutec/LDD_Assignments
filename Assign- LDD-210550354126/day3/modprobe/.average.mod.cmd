@@ -1,0 +1,1 @@
+cmd_/home/pi/device-drivers/assignment/day3/modprobe/average.mod := { echo  /home/pi/device-drivers/assignment/day3/modprobe/average.o;  echo; } > /home/pi/device-drivers/assignment/day3/modprobe/average.mod

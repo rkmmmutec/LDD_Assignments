@@ -1,0 +1,1 @@
+cmd_/home/pi/device-drivers/assignment/day2/3_parameter/calc.ko := ld -r  -EL  --build-id=sha1  -T scripts/module.lds -o /home/pi/device-drivers/assignment/day2/3_parameter/calc.ko /home/pi/device-drivers/assignment/day2/3_parameter/calc.o /home/pi/device-drivers/assignment/day2/3_parameter/calc.mod.o;  true

@@ -1,0 +1,1 @@
+cmd_/home/pi/device-drivers/assignment/day2/module_parameter/parameter.ko := ld -r  -EL  --build-id=sha1  -T scripts/module.lds -o /home/pi/device-drivers/assignment/day2/module_parameter/parameter.ko /home/pi/device-drivers/assignment/day2/module_parameter/parameter.o /home/pi/device-drivers/assignment/day2/module_parameter/parameter.mod.o;  true

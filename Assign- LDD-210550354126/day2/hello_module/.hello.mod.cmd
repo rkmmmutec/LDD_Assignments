@@ -1,0 +1,1 @@
+cmd_/home/pi/device-drivers/assignment/day2/hello_module/hello.mod := { echo  /home/pi/device-drivers/assignment/day2/hello_module/hello.o;  echo; } > /home/pi/device-drivers/assignment/day2/hello_module/hello.mod

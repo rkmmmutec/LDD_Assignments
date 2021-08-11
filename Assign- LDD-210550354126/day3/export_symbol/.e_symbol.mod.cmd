@@ -1,0 +1,1 @@
+cmd_/home/pi/device-drivers/assignment/export_symbol/e_symbol.mod := { echo  /home/pi/device-drivers/assignment/export_symbol/e_symbol.o;  echo; } > /home/pi/device-drivers/assignment/export_symbol/e_symbol.mod

@@ -1,0 +1,1 @@
+cmd_/home/pi/device-drivers/assignment/day3/modprobe/e_symbol.ko := ld -r  -EL  --build-id=sha1  -T scripts/module.lds -o /home/pi/device-drivers/assignment/day3/modprobe/e_symbol.ko /home/pi/device-drivers/assignment/day3/modprobe/e_symbol.o /home/pi/device-drivers/assignment/day3/modprobe/e_symbol.mod.o;  true
